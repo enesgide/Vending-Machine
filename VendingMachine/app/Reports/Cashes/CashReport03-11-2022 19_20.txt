@@ -1,0 +1,11 @@
+From Cashier: Owner
+Name: $10;	Amount left: 10.
+Name: $5;	Amount left: 10.
+Name: $2;	Amount left: 100.
+Name: $1;	Amount left: 100.
+Name: ¢50;	Amount left: 100.
+Name: ¢20;	Amount left: 100.
+Name: ¢10;	Amount left: 100.
+Name: ¢5;	Amount left: 100.
+Name: ¢2;	Amount left: 100.
+Name: ¢1;	Amount left: 100.

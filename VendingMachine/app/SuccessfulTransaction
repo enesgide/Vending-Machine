@@ -1,0 +1,20 @@
+User: null; Time: 02-11-2022 21:10:00;
+Product: Coca Cola; 
+Payment Method: Cash; Amount paid: 5.0; Change :1.0;
+
+User: null; Time: 02-11-2022 21:12;
+Product: Coca Cola; M&M; Bounty; Mars; Mineral Water; 
+Payment Method: Cash; Amount paid: 50.0; Change :32.0;
+
+User: dahao; Time: 02-11-2022 21:13;
+Product: Coca Cola; Juice; Mineral Water; 
+Payment Method: Card;
+
+User: Seller-01; Time: 02-11-2022 21:13;
+Product: Coca Cola; Juice; 
+Payment Method: Cash; Amount paid: 12.0; Change :1.0;
+
+User: Cashier-01; Time: 02-11-2022 21:14;
+Product: M&M; Mars; Pepsi; Bounty; Mineral Water; 
+Payment Method: Card;
+

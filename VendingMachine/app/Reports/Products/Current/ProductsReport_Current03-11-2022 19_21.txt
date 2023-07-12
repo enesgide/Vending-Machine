@@ -1,0 +1,17 @@
+From Seller: Owner
+ID: 101; Type: DRINK; Name: Mineral Water; Price: 3.0; Amount left: 7.
+ID: 102; Type: DRINK; Name: Sprite; Price: 2.0; Amount left: 7.
+ID: 103; Type: DRINK; Name: Coca Cola; Price: 2.0; Amount left: 7.
+ID: 104; Type: DRINK; Name: Pepsi; Price: 2.0; Amount left: 7.
+ID: 105; Type: DRINK; Name: Juice; Price: 3.5; Amount left: 7.
+ID: 201; Type: CHOCOLATE; Name: Mars; Price: 1.0; Amount left: 7.
+ID: 202; Type: CHOCOLATE; Name: M&M; Price: 2.0; Amount left: 7.
+ID: 203; Type: CHOCOLATE; Name: Bounty; Price: 2.0; Amount left: 7.
+ID: 204; Type: CHOCOLATE; Name: Snickers; Price: 3.0; Amount left: 7.
+ID: 301; Type: CHIP; Name: Smiths; Price: 2.0; Amount left: 7.
+ID: 302; Type: CHIP; Name: Pringles; Price: 2.5; Amount left: 7.
+ID: 303; Type: CHIP; Name: Kettle; Price: 2.0; Amount left: 7.
+ID: 304; Type: CHIP; Name: Thins; Price: 3.0; Amount left: 7.
+ID: 401; Type: CANDY; Name: Mentos; Price: 1.0; Amount left: 7.
+ID: 402; Type: CANDY; Name: Sour Patch; Price: 1.0; Amount left: 7.
+ID: 403; Type: CANDY; Name: Skittles; Price: 1.0; Amount left: 7.

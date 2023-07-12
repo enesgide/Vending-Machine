@@ -1,0 +1,29 @@
+#!/bin/bash
+
+cd app
+rm *Transactions
+
+cd Reports/Cashes
+rm *.txt
+
+cd ../Products/Current
+rm *.txt
+cd ../History
+rm *.txt
+
+cd ../../Transactions/Cancelled
+rm *.txt
+cd ../Successful
+rm *.txt
+
+cd ../../Users
+rm *.txt
+
+cd ../..
+
+git add .
+
+git commit -m "updated"
+
+git push
+

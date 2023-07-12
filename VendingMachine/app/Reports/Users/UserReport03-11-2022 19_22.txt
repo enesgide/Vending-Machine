@@ -1,0 +1,5 @@
+From Owner: Owner
+Name: dahao; Role: NORMAL.
+Name: Cashier-01; Role: CASHIER.
+Name: Owner; Role: OWNER.
+Name: Seller-01; Role: SELLER.
